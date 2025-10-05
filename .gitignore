@@ -54,4 +54,3 @@ Thumbs.db
 *.sw?
 # IDE Configs
 .vscode/ # Ignore all VS Code config at the root...
-!.vscode/extensions.json # ...except this file (to share recommended extensions)
